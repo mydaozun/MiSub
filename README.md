@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**一个功能强大、界面精美的订阅管理与转换工具**
+** 一个功能强大、界面精美的订阅管理与转换工具**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-orange.svg)](https://pages.cloudflare.com/)
